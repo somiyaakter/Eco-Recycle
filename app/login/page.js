@@ -138,13 +138,13 @@ export default function LoginPage() {
 						<div>
 							<strong>Collectors:</strong>
 						</div>
-						<div>• john_collector / pass123</div>
+						<div>• sanju_collector / pass123</div>
 						<div>• sarah_collector / pass123</div>
 						<div>
 							<strong>Agents:</strong>
 						</div>
-						<div>• mike_agent / pass123</div>
-						<div>• lisa_agent / pass123</div>
+						<div>• abdullah_agent / pass123</div>
+						<div>• amatullah_agent / pass123</div>
 					</div>
 				</div>
 
